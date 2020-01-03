@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="netty-rpc-interface" />
+        <module name="netty-rpc-config-api" />
+        <module name="netty-rpc-springboot-starter" />
+        <module name="netty-rpc-provider" />
+        <module name="netty-rpc-protocol-api" />
+        <module name="netty-client" />
+        <module name="netty-rpc-remoting-api" />
+        <module name="netty-rpc-registry-api" />
+        <module name="netty-rpc-common" />
+        <module name="netty-rpc-protocol-fastjosn" />
+        <module name="netty-rpc-consumer" />
+        <module name="rpc-cosumser" />
+        <module name="netty-rpc-registry-zookeeper" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="netty-rpc-bean" target="1.8" />
+      <module name="netty-rpc-cosumer" target="1.8" />
+      <module name="netty-rpc-demo" target="1.5" />
+      <module name="netty-rpc-test" target="1.8" />
+      <module name="rpc-consumer" target="1.8" />
+      <module name="rpc-cosumser" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="netty-client" options="" />
+      <module name="netty-rpc-all" options="-parameters" />
+      <module name="netty-rpc-bean" options="-parameters" />
+      <module name="netty-rpc-common" options="" />
+      <module name="netty-rpc-config" options="-parameters" />
+      <module name="netty-rpc-config-api" options="" />
+      <module name="netty-rpc-consumer" options="-parameters" />
+      <module name="netty-rpc-cosumer" options="-parameters" />
+      <module name="netty-rpc-protocol" options="-parameters" />
+      <module name="netty-rpc-protocol-api" options="" />
+      <module name="netty-rpc-protocol-fastjosn" options="" />
+      <module name="netty-rpc-provider" options="-parameters" />
+      <module name="netty-rpc-registry" options="-parameters" />
+      <module name="netty-rpc-registry-api" options="" />
+      <module name="netty-rpc-registry-zookeeper" options="" />
+      <module name="netty-rpc-remoting" options="-parameters" />
+      <module name="netty-rpc-remoting-api" options="" />
+      <module name="netty-rpc-springboot-starter" options="" />
+      <module name="netty-rpc-test" options="-parameters" />
+      <module name="rpc-consumer" options="-parameters" />
+      <module name="rpc-cosumser" options="-parameters" />
+    </option>
+  </component>
+</project>

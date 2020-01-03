@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-rpc-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-rpc-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-rpc-config/netty-rpc-config-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-rpc-config/netty-rpc-springboot-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-rpc-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-rpc-demo/netty-rpc-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-rpc-demo/netty-rpc-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-rpc-demo/netty-rpc-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-rpc-protocol" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-rpc-protocol/netty-rpc-protocol-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-rpc-protocol/netty-rpc-protocol-fastjosn" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-rpc-registry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-rpc-registry/netty-rpc-registry-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-rpc-registry/netty-rpc-registry-zookeeper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-rpc-remoting" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-rpc-remoting/netty-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty-rpc-remoting/netty-rpc-remoting-api" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+netty:
+  rpc:
+    serverPort: 10081
+    registryAddress: 127.0.0.1:2181
+    enableConsumer: false
+    enableProvider: true
+#    loadBalanceClass:
+#    consumerClass:
+#    providerClass:
+#    registryClass:
+

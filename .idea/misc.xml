@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-rpc-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-rpc-demo/netty-rpc-provider/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/netty-rpc-bean/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-rpc-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-rpc-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-rpc-provider/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8.0_161" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
