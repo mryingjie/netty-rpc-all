@@ -8,3 +8,5 @@ netty:
 #    providerClass:
 #    registryClass:
 
+server:
+  port: 8080
